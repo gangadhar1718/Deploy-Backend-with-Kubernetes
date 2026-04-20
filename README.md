@@ -9,7 +9,10 @@
 
 ---
 
-## Deploy Backend with Kubernetes
+## Deploy Backend with Kubernetes 
+
+<img width="1511" height="790" alt="image" src="https://github.com/user-attachments/assets/9d51f657-4f52-4af3-982f-ed0034bdceef" />
+
 
 ![Image](http://learn.nextwork.org/motivated_teal_peaceful_coriander/uploads/aws-compute-eks4_6cfb382f2)
 
